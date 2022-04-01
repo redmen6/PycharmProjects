@@ -1,1 +1,1 @@
-# PycharmProjects
+# GB Python lesson 1
