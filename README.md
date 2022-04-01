@@ -1,1 +1,1 @@
-# GB Python lesson 1
+# GB Python lesson 1 DZ
